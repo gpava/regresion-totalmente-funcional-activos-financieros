@@ -27,3 +27,4 @@ renv/staging/
 # NOTA:
 # Los datos fuente, resultados, figuras, tablas y archivos de auditoría
 # forman parte del material reproducible y se conservan en el repositorio.
+.Rapp.history
