@@ -6,7 +6,10 @@ authors:
   - family-names: "Pava Parra"
     given-names: "Gustavo Andrés"
 version: "1.0.0"
+date-released: 2026-08-29
 license: MIT
+repository-code: "https://github.com/gpava/regresion-totalmente-funcional-activos-financieros"
+url: "https://github.com/gpava/regresion-totalmente-funcional-activos-financieros"
 keywords:
   - análisis de datos funcionales
   - regresión totalmente funcional
