@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si utiliza este código, cite la tesis y este repositorio."
+title: "Código reproducible de Modelo de Regresión Totalmente Funcional en Activos Financieros"
+type: software
+authors:
+  - family-names: "Pava Parra"
+    given-names: "Gustavo Andrés"
+version: "1.0.0"
+license: MIT
+keywords:
+  - análisis de datos funcionales
+  - regresión totalmente funcional
+  - activos financieros
+  - GARCH
+  - reproducibilidad
+preferred-citation:
+  type: thesis
+  title: "Modelo de Regresión Totalmente Funcional en Activos Financieros"
+  authors:
+    - family-names: "Pava Parra"
+      given-names: "Gustavo Andrés"
+  year: 2026

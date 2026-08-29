@@ -1,0 +1,19 @@
+# Manifiesto de archivos fuente
+
+SHA-256 de los 13 CSV incluidos en `datos/originales/`.
+
+```text
+f7edd152c920567de8d4c05e7d7f3927de14ef0eec944f886cda912eb4f740be  Bancodebogota.csv
+0d651908c851533cdb081e1efbaa2b1f45e9ae44a2d5c1986f898c3cf7a915eb  Bancolombia.csv
+56e769096e75df4f36f515edae47127014adee65830c19ecf5e00ff9a34fe91f  Bolsavaloresdecolombia.csv
+e6e04c3fd62e19ae4635ccc4da3dc93a6da0b536203af91b6f88711d942b89fd  CelsiaSA.csv
+21c5b853d1e84134cc50df55ce4912fccaa28d003dda4ea19aab197b7b02b909  CementosArgos.csv
+ebaa9b0823e5da6a10ed1832501939743e1c765ee45365b4f6eaec7f069f66bd  Corporacionfinancieradecolombia.csv
+09854e9f7fe18c45d82a8f360d5e05481245ba0695c5d513fd92f5445767114b  Ecopetrol.csv
+1c20a854b8eeb3c3e8dd6e7ccf8e298633365ee4fbf86a9f3dfd4d2411d01310  Grupobolivar.csv
+a7d60a4731f7dcca1de41ee2d0306022d24b93fa516f542aa00d95b97a50f916  Mineros SA (MAS).csv
+ddc98046e0ed6e84c5bca91dff5034e5d59dbbc644be08d41c45fd9a1cef4274  Nutresa (NCH).csv
+302cf084813148eeab77cb83e62bf3cc4cb78ffff6378d27ba891f7b79b5b0e6  Organizacion Terpel SA (TPL).csv
+6508aef6c9c5d5d0eb8aa83737782e21528a0c4996aa6d4d20ae029e2341b930  Promigas (PMG).csv
+97650383a25523ec8613723581d98fb6d8897e41d75d3c7ea4b540c0b4608272  Suramericana (SIS).csv
+```

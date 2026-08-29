@@ -1,0 +1,29 @@
+# ============================================================
+# Archivos locales de R / RStudio
+# ============================================================
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# ============================================================
+# Archivos del sistema operativo
+# ============================================================
+.DS_Store
+__MACOSX/
+
+# ============================================================
+# Biblioteca local de renv (se reconstruye con renv::restore())
+# ============================================================
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# NOTA:
+# Los datos fuente, resultados, figuras, tablas y archivos de auditoría
+# forman parte del material reproducible y se conservan en el repositorio.
