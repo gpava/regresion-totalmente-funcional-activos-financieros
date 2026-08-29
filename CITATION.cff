@@ -1,31 +1,29 @@
 cff-version: 1.2.0
-message: "Si utiliza este código, cite la tesis y este repositorio."
+message: "Si utiliza estos materiales, cite esta versión del repositorio."
 title: "Materiales reproducibles para regresión totalmente funcional en activos financieros"
 type: software
+
 authors:
   - family-names: "Pava Parra"
     given-names: "Gustavo Andrés"
-    orcid: https://orcid.org/0009-0004-6503-8533
+    orcid: "https://orcid.org/0009-0004-6503-8533"
+    affiliation: "Universidad Nacional de Colombia"
+
 version: "1.0.0"
 date-released: 2026-08-29
 license: MIT
+
 repository-code: "https://github.com/gpava/regresion-totalmente-funcional-activos-financieros"
-url: "https://github.com/gpava/regresion-totalmente-funcional-activos-financieros"
-keywords:
-  - análisis de datos funcionales
-  - regresión totalmente funcional
-  - activos financieros
-  - GARCH
-  - reproducibilidad
-preferred-citation:
-  type: thesis
-  title: "Modelo de Regresión Totalmente Funcional en Activos Financieros"
-  authors:
-    - family-names: "Pava Parra"
-      given-names: "Gustavo Andrés"
-      orcid: "https://orcid.org/0000-0000-0000-0000"
-  year: 2026
+
 identifiers:
   - type: doi
     value: "10.5281/zenodo.22155904"
     description: "DOI de la versión reproducible v1.0.0"
+
+keywords:
+  - análisis de datos funcionales
+  - regresión funcional
+  - regresión totalmente funcional
+  - activos financieros
+  - mercado accionario colombiano
+  - modelos GARCH
