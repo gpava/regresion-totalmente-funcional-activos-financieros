@@ -1,10 +1,19 @@
 # Modelo de Regresión Totalmente Funcional en Activos Financieros
 
+
 Repositorio de reproducibilidad de la tesis de **Maestría en Ciencias - Matemática Aplicada** titulada *Modelo de Regresión Totalmente Funcional en Activos Financieros*, desarrollada por **Gustavo Andrés Pava Parra**.
 
 **Repositorio:** https://github.com/gpava/regresion-totalmente-funcional-activos-financieros
 
 **Versión reproducible:** v1.0.0
+
+## Identificación persistente
+
+**DOI de la versión reproducible v1.0.0:**  
+https://doi.org/10.5281/zenodo.22155904
+
+**DOI general del proyecto:**  
+https://doi.org/10.5281/zenodo.22155903
 
 El repositorio contiene los archivos fuente de las trece series estudiadas, los scripts de preprocesamiento y análisis funcional, la revisión de observaciones extremas, la auditoría de la Sección 5.1, la comparación mediante modelos GARCH(p,q), los resultados de referencia y la configuración del entorno computacional utilizada en la reproducción final.
 
