@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "Si utiliza este código, cite la tesis y este repositorio."
-title: "Código reproducible de Modelo de Regresión Totalmente Funcional en Activos Financieros"
+title: "Materiales reproducibles para regresión totalmente funcional en activos financieros"
 type: software
 authors:
   - family-names: "Pava Parra"
     given-names: "Gustavo Andrés"
+    orcid: https://orcid.org/0009-0004-6503-8533
 version: "1.0.0"
 date-released: 2026-08-29
 license: MIT
@@ -22,6 +23,7 @@ preferred-citation:
   authors:
     - family-names: "Pava Parra"
       given-names: "Gustavo Andrés"
+      orcid: "https://orcid.org/0000-0000-0000-0000"
   year: 2026
 identifiers:
   - type: doi
